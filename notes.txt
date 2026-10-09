@@ -1,4 +1,4 @@
-This is my first practice edit
+This is my first practice edit - EDITED LOCALLY
 Edited directly in GitHub
 Line added on feature branch via VS Code
 Working on Login Feature
